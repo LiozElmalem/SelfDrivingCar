@@ -9,6 +9,7 @@
   "author": "Lioz Elmalem && Snir Shaharabani",
   "license": "MIT",
   "devDependencies": {
+    "arkit": "^1.6.4",
     "script-loader": "^0.7.2",
     "webpack": "^4.0.1",
     "webpack-cli": "^2.0.9",

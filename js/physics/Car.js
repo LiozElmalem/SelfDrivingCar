@@ -99,7 +99,9 @@ export default class Car {
     } else {
       this.wheelAngularVelocity = Math.clamp(-this.wheelAngle / Car.MAX_WHEEL_ANGLE * this.velocity * this.velocity * dt, -Car.MAX_STEER_SPEED, Car.MAX_STEER_SPEED);
     }
+    
   }
+
 }
 
 Car.HALF_CAR_LENGTH = 2.5; // meters

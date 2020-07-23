@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1652px" preserveAspectRatio="none" style="width:783px;height:1652px;" version="1.1" viewBox="0 0 783 1652" width="783px" zoomAndPan="magnify"><defs/><g><!--MD5=[c06ca3070064d89a6923d144af9c4a64]
+entity _AutonomousController--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="150" x="132" y="721"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="130" x="142" y="743.0059">AutonomousController</text><!--MD5=[184f43ae7ef16a77e8a6367357ae6f0b]
+entity _Car--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="39" x="733" y="697"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="19" x="743" y="719.0059">Car</text><!--MD5=[1bfcf5e6b17e9f7df435879e24e4f37a]
+entity _CarObject--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="78" x="168" y="568"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="58" x="178" y="590.0059">CarObject</text><!--MD5=[086b57a79b3740a77e6c6f3573307654]
+entity _CubicPath--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="77" x="374" y="770"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="57" x="384" y="792.0059">CubicPath</text><ellipse cx="43.5416" cy="328.242" fill="#F8F8F8" rx="27.0416" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="34" x="26.5416" y="331.9842">Dash</text><!--MD5=[e2cf23bf4f1fd358c53e57ffbd8d1a1d]
+entity _Dashboard--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="83" x="571" y="1350"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="63" x="581" y="1372.0059">Dashboard</text><!--MD5=[e479e86a07a477efdcb716b9ed4cce9c]
+entity _DynamicObstacle--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="122" x="551.5" y="441"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="102" x="561.5" y="463.0059">DynamicObstacle</text><!--MD5=[fa8d8b55532c80ac96ec43f3afe54104]
+entity _DynamicObstacleEditor--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="155" x="335" y="441"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="135" x="345" y="463.0059">DynamicObstacleEditor</text><!--MD5=[0de8ed3b3191be4b09775d1f5dc4fdb6]
+entity _DynamicObstacleObject--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="161" x="126.5" y="623"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="141" x="136.5" y="645.0059">DynamicObstacleObject</text><!--MD5=[9fcbe85ed7beaeaebfa9901309de2b83]
+entity _Editor--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="53" x="180.5" y="441"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="33" x="190.5" y="463.0059">Editor</text><ellipse cx="612.3909" cy="556.242" fill="#F8F8F8" rx="41.8909" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="55" x="584.8909" y="559.9842">examples</text><!--MD5=[d65874ae73f1ce770efd5a9ba1395a97]
+entity _FollowController--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="113" x="150.5" y="1552"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="93" x="160.5" y="1574.0059">FollowController</text><!--MD5=[2aa2ba6ee11e99d9e65da523f08cbb23]
+entity _GPGPU--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="60" x="382.5" y="825"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="40" x="392.5" y="847.0059">GPGPU</text><ellipse cx="412.4117" cy="1121.242" fill="#F8F8F8" rx="53.9117" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="72" x="376.4117" y="1124.9842">graphSearch</text><ellipse cx="612.6876" cy="1035.8375" fill="#F8F8F8" rx="69.6876" ry="16.3375" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="112" x="556.6876" y="1039.5797">graphSearchShared</text><ellipse cx="612.4056" cy="509.242" fill="#F8F8F8" rx="33.4056" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="43" x="590.9056" y="512.9842">Helpers</text><!--MD5=[81c138977392cb45703c771711136526]
+entity _LanePath--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="72" x="376.5" y="331"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="52" x="386.5" y="353.0059">LanePath</text><!--MD5=[14e3db80fed900b5762fffb48f16d87f]
+entity _ManualController--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="116" x="149" y="819"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="96" x="159" y="841.0059">ManualController</text><!--MD5=[35a9c87bb64fa6059761d008aaca6b1b]
+entity _MapObject--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="82" x="166" y="874"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="62" x="176" y="896.0059">MapObject</text><!--MD5=[7488d7e32d023b2f4a2e398cf5fbdeeb]
+entity _MovingAverage--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="105" x="154.5" y="929"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="85" x="164.5" y="951.0059">MovingAverage</text><ellipse cx="412.5295" cy="1473.0059" fill="#F8F8F8" rx="70.5295" ry="16.5059" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="114" x="355.5295" y="1476.7481">optimizeCubicPaths</text><ellipse cx="412.3686" cy="897.7737" fill="#F8F8F8" rx="74.3686" ry="17.2737" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="123" x="350.8686" y="901.5159">optimizeQuinticPaths</text><ellipse cx="206.8534" cy="998.0707" fill="#F8F8F8" rx="55.8534" ry="13.5707" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="77" x="168.3534" y="1001.8129">OrbitControls</text><!--MD5=[db9c8457a61824d318f7b223542d3224]
+entity _Path--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="45" x="590" y="264"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="25" x="600" y="286.0059">Path</text><ellipse cx="412.4695" cy="954.7939" fill="#F8F8F8" rx="76.9695" ry="17.7939" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="129" x="347.9695" y="958.5361">pathFromVehicleCosts</text><!--MD5=[0a051a17795585ddcac7e7c2b6d34c77]
+entity _PathPlanner--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="87" x="163.5" y="1104"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="67" x="173.5" y="1126.0059">PathPlanner</text><!--MD5=[a9dcc13100bbba5fa883eb60abcecb26]
+entity _PathPlannerConfigEditor--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="157" x="534" y="386"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="137" x="544" y="408.0059">PathPlannerConfigEditor</text><!--MD5=[2056e6c37a691661c237c33adcf81f5f]
+entity _Physics--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="64" x="580.5" y="672"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="44" x="590.5" y="694.0059">Physics</text><!--MD5=[a1c295262d717735a2321cc7cf18d605]
+entity _QuinticPath--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="86" x="369.5" y="994"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="66" x="379.5" y="1016.0059">QuinticPath</text><!--MD5=[0fb6ba38a7da179fa0d3adfca750c771]
+entity _RoadLattice--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="87" x="163.5" y="1607"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="67" x="173.5" y="1629.0059">RoadLattice</text><!--MD5=[97f599e19e3c6a4c43bf7e61bfbbea24]
+entity _ScenarioManager--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="119" x="353" y="539"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="99" x="363" y="561.0059">ScenarioManager</text><!--MD5=[b0237495beaa647651267d21bbdab1e2]
+entity _ShareManager--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="101" x="362" y="386"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="81" x="372" y="408.0059">ShareManager</text><!--MD5=[ab138e1fc78dc3d441c0f08eea2d61cb]
+entity _Simulator--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="75" x="6" y="697"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="55" x="16" y="719.0059">Simulator</text><ellipse cx="412.5995" cy="1067.8199" fill="#F8F8F8" rx="79.5995" ry="18.3199" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="135" x="345.0995" y="1071.5621">slDynamicObstacleGrid</text><ellipse cx="412.3344" cy="1212.1669" fill="#F8F8F8" rx="58.8344" ry="14.1669" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="85" x="369.8344" y="1215.9091">slObstacleGrid</text><ellipse cx="412.4695" cy="1264.7939" fill="#F8F8F8" rx="76.9695" ry="17.7939" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="129" x="347.9695" y="1268.5361">slObstacleGridDilation</text><!--MD5=[3da70683a68878d7e32911f60f447c70]
+entity _StaticObstacle--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="105" x="360" y="147"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="85" x="370" y="169.0059">StaticObstacle</text><!--MD5=[1b5cbe2d87e850cea43df9d2b6225c6f]
+entity _StaticObstacleObject--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="144" x="135" y="49"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="124" x="145" y="71.0059">StaticObstacleObject</text><ellipse cx="412.5477" cy="650.242" fill="#F8F8F8" rx="47.5477" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="63" x="381.0477" y="653.9842">TDSLoader</text><!--MD5=[1f12d9be83f57c4a85e69d22340499c1]
+entity _TopDownCameraControls--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="168" x="123" y="104"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="148" x="133" y="126.0059">TopDownCameraControls</text><ellipse cx="43.7132" cy="281.242" fill="#F8F8F8" rx="24.2132" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="30" x="28.7132" y="284.9842">Utils</text><ellipse cx="412.5295" cy="1321.0059" fill="#F8F8F8" rx="70.5295" ry="16.5059" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="114" x="355.5295" y="1324.7481">xyObstacleCostGrid</text><ellipse cx="412.5993" cy="1372.8199" fill="#F8F8F8" rx="59.5993" ry="14.3199" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="87" x="369.0993" y="1376.562">xyObstacleGrid</text><ellipse cx="412.3198" cy="1422.242" fill="#F8F8F8" rx="34.8198" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="45" x="389.8198" y="1425.9842">xyslMap</text><!--MD5=[9e5102d0ea58d39519c6a7a2dfdfd7bc]
+link _AutonomousController to _Car--><path d="M282.148,734.726 C406.397,729.239 650.619,718.455 727.641,715.054 " fill="none" id="_AutonomousController-&gt;_Car" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="732.894,714.822,723.7267,711.2218,727.8988,715.042,724.0787,719.2141,732.894,714.822" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[1e48658b0c292767ba08c7191c79652c]
+link _CarObject to _Car--><path d="M246.196,583.78 C330.779,582.56 538.465,587.93 691,661 C707.066,668.697 722.145,681.885 733.23,693.18 " fill="none" id="_CarObject-&gt;_Car" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="736.832,696.927,733.4773,687.6671,733.3664,693.3229,727.7107,693.212,736.832,696.927" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[c63f7d0a3e4a1d93a198578db4d40ddb]
+link _CarObject to TDSLoader--><path d="M246.277,597.23 C283.52,609.12 339.654,627.05 375.942,638.64 " fill="none" id="_CarObject-&gt;TDSLoader" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="380.707,640.16,373.3532,633.6085,375.9446,638.6369,370.9163,641.2283,380.707,640.16" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[aa03907a3b71373e830fbc0465e19e9b]
+link <b>Dash</b> to _Simulator--><path d="M43.5,341.32 C43.5,458.03 43.5,574.74 43.5,691.455 " fill="none" id="&lt;b&gt;Dash&lt;/b&gt;-&gt;_Simulator" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="43.5,696.66,47.5,687.66,43.5,691.66,39.5,687.66,43.5,696.66" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[c2fd8fd702ff6e5fda177067861ad90b]
+link <b>Dash</b> to _StaticObstacle--><path d="M64.0632,319.23 C70.4204,315.43 76.8891,310.37 81,304 C145.876,203.42 32.008,115.75 123,38 C179.765,-10.51 222.34,8.66 291,38 C340.874,59.31 379.966,112.52 398.935,142.53 " fill="none" id="&lt;b&gt;Dash&lt;/b&gt;-&gt;_StaticObstacle" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="401.586,146.79,400.2228,137.0359,398.9424,142.546,393.4324,141.2657,401.586,146.79" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[da9c29881220a4cdc54b8f16f83733f5]
+link _Dashboard to _Car--><path d="M622.483,1349.95 C638.909,1317.972 673.687,1246.398 691,1182 C735.984,1014.676 747.934,804.407 750.729,736.348 " fill="none" id="_Dashboard-&gt;_Car" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="750.929,731.322,746.5723,740.1548,750.729,736.318,754.5659,740.4748,750.929,731.322" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[e5eb8e0e0681f8553db4c6060f474717]
+link _DynamicObstacleEditor to _DynamicObstacle--><path d="M490.052,458 C508.653,458 528.37,458 546.385,458 " fill="none" id="_DynamicObstacleEditor-&gt;_DynamicObstacle" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="551.418,458,542.418,454,546.418,458,542.418,462,551.418,458" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[9abf9d1d3dbd96087a13cdf3c5a199e2]
+link _DynamicObstacleEditor to _PathPlannerConfigEditor--><path d="M474.792,440.97 C497.165,434.76 522.559,427.71 545.337,421.38 " fill="none" id="_DynamicObstacleEditor-&gt;_PathPlannerConfigEditor" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="550.156,420.04,540.4134,418.5971,545.3387,421.3794,542.5564,426.3047,550.156,420.04" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[19fdacc0f72be0676835ae34e5669032]
+link _Editor to _DynamicObstacleEditor--><path d="M233.773,458 C257.933,458 295.369,458 329.664,458 " fill="none" id="_Editor-&gt;_DynamicObstacleEditor" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="334.699,458,325.699,454,329.699,458,325.699,462,334.699,458" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[e9772add4d1105ed4a06ae972cb37075]
+link _Editor to Helpers--><path d="M233.679,464.55 C258.827,470.72 298.312,479.78 333,485 C418.774,497.91 520.533,504.49 574.145,507.29 " fill="none" id="_Editor-&gt;Helpers" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="579.181,507.55,570.3983,503.093,574.1876,507.2932,569.9874,511.0825,579.181,507.55" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[745d5d05f5b977ff27d3234436946e56]
+link _Editor to _LanePath--><path d="M229.987,440.88 C254.168,422.66 294.695,393.92 333,375 C345.092,369.03 358.833,363.81 371.402,359.6 " fill="none" id="_Editor-&gt;_LanePath" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="376.339,357.98,366.5393,356.9976,371.5902,359.5448,369.043,364.5957,376.339,357.98" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[6f76acc55c601f20d513e1a4d688b683]
+link _Editor to _ScenarioManager--><path d="M233.548,472.07 C258.598,485.67 298.013,506.58 333,523 C343.097,527.74 354.061,532.55 364.503,536.98 " fill="none" id="_Editor-&gt;_ScenarioManager" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="369.26,538.99,362.5175,531.8109,364.6518,537.0497,359.4131,539.184,369.26,538.99" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[bc8b4f530a136868219e86bde8d67e21]
+link _Editor to _ShareManager--><path d="M233.773,451.03 C264.48,442.74 316.635,428.64 356.528,417.86 " fill="none" id="_Editor-&gt;_ShareManager" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="361.824,416.43,352.0923,414.9153,356.997,417.7339,354.1785,422.6386,361.824,416.43" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[58ef9926fc0e995c1d73f307bc410db9]
+link _Editor to _StaticObstacle--><path d="M219.821,440.92 C254.874,390.28 358.206,240.99 396.767,185.28 " fill="none" id="_Editor-&gt;_StaticObstacle" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="399.647,181.12,391.2383,186.2478,396.8033,185.2326,397.8185,190.7976,399.647,181.12" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[97437dd243aa5fc0925256bfbfada803]
+link _FollowController to _Car--><path d="M263.753,1569.4985 C370.913,1566.9703 602.825,1543.7394 691,1395 C725.3,1337.14 746.291,847.834 750.65,736.486 " fill="none" id="_FollowController-&gt;_Car" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="750.857,731.173,746.5077,740.0095,750.6613,736.1692,754.5016,740.3227,750.857,731.173" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[8780a7855a40a58197f67525c202c487]
+link graphSearch to graphSearchShared--><path d="M449.521,1111.427 C463.027,1107.464 478.392,1102.504 492,1097 C522.974,1084.472 556.754,1066.833 580.472,1053.743 " fill="none" id="graphSearch-&gt;graphSearchShared" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="585.077,1051.189,575.2665,1052.0569,580.7047,1053.6144,579.1471,1059.0526,585.077,1051.189" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[549ccab61e21dcaaef19fccbceda9728]
+link _Path to _Car--><path d="M632.37,298.11 C650.409,315.61 676.888,344.47 691,375 C742.281,485.92 750.241,635.84 751.367,691.758 " fill="none" id="_Path-&gt;_Car" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="751.456,696.872,755.2986,687.8037,751.3689,691.8728,747.2998,687.9431,751.456,696.872" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[c26f7dd343067d216e0d7900d8906006]
+link pathFromVehicleCosts to graphSearchShared--><path d="M455.63,970.066 C467.449,974.427 480.272,979.286 492,984 C519.948,995.232 551.144,1008.845 574.652,1019.324 " fill="none" id="pathFromVehicleCosts-&gt;graphSearchShared" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="579.248,1021.376,572.6635,1014.0517,574.6832,1019.3358,569.3992,1021.3554,579.248,1021.376" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[6777a792e062c6f8e61f9421b5f0893c]
+link _PathPlanner to _Car--><path d="M250.599,1132.459 C347.618,1155.666 584.814,1195.447 691,1063 C731.863,1012.031 746.571,805.273 750.391,736.424 " fill="none" id="_PathPlanner-&gt;_Car" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="750.668,731.33,746.1853,740.0996,750.3966,736.3226,754.1736,740.5339,750.668,731.33" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[379542ec2747e430e2ac8a40a9cc9605]
+link _PathPlanner to _CubicPath--><path d="M227.338,1103.661 C246.551,1085.307 275.343,1054.539 291,1022 C331.892,937.016 270.857,884.941 333,814 C342.219,803.476 355.734,797.051 368.962,793.129 " fill="none" id="_PathPlanner-&gt;_CubicPath" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="373.814,791.795,364.0755,790.325,368.993,793.121,366.197,798.0385,373.814,791.795" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[ef60249aae03b234d58320f04e1eb801]
+link _PathPlanner to _GPGPU--><path d="M241.792,1103.891 C259.047,1093.474 278.898,1078.581 291,1060 C338.198,987.532 275.788,934.855 333,870 C344.18,857.327 361.498,850.389 377.027,846.592 " fill="none" id="_PathPlanner-&gt;_GPGPU" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="382.213,845.42,372.5529,843.5008,377.3358,846.5214,374.3152,851.3043,382.213,845.42" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[0df0728b209bc81155ccbbfdd1a03329]
+link _PathPlanner to graphSearch--><path d="M250.66,1121 C280.42,1121 320.499,1121 353.204,1121 " fill="none" id="_PathPlanner-&gt;graphSearch" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="358.387,1121,349.387,1117,353.387,1121,349.387,1125,358.387,1121" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[cf7bd61eebc796b8d48ba1933f42dfbd]
+link _PathPlanner to optimizeCubicPaths--><path d="M209.593,1138.237 C215.452,1191.754 240.547,1356.808 333,1446 C339.013,1451.801 346.327,1456.359 354.046,1459.939 " fill="none" id="_PathPlanner-&gt;optimizeCubicPaths" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="358.896,1462.045,352.2341,1454.7911,354.3098,1460.0534,349.0475,1462.129,358.896,1462.045" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[950714c7a78a914bdbe4b240de564935]
+link _PathPlanner to optimizeQuinticPaths--><path d="M240.324,1103.958 C257.57,1093.383 277.882,1078.32 291,1060 C327.09,1009.601 290.232,971.872 333,927 C338.728,920.991 345.809,916.219 353.355,912.432 " fill="none" id="_PathPlanner-&gt;optimizeQuinticPaths" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="358.106,910.199,348.2593,910.4073,353.5809,912.3259,351.6623,917.6474,358.106,910.199" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[e7a154c0d998b0eb6639059da69bf23a]
+link _PathPlanner to pathFromVehicleCosts--><path d="M237.375,1103.906 C254.491,1092.921 275.655,1077.463 291,1060 C316.474,1031.01 303.731,1009.153 333,984 C339.388,978.511 346.907,974.021 354.719,970.358 " fill="none" id="_PathPlanner-&gt;pathFromVehicleCosts" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="359.613,968.184,349.7641,968.1831,355.0438,970.2143,353.0126,975.4939,359.613,968.184" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[c828581ff25856887f93f37bcbbeb203]
+link _PathPlanner to _QuinticPath--><path d="M230.508,1103.857 C254.803,1085.934 295.122,1057.842 333,1039 C342.886,1034.082 353.854,1029.608 364.38,1025.75 " fill="none" id="_PathPlanner-&gt;_QuinticPath" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="369.18,1024.022,359.357,1023.3083,364.4758,1025.7163,362.0678,1030.835,369.18,1024.022" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[efcc9a319a4c1943e69dddf83dad51ee]
+link _PathPlanner to slDynamicObstacleGrid--><path d="M250.66,1109.889 C280.53,1102.11 320.797,1091.623 353.568,1083.088 " fill="none" id="_PathPlanner-&gt;slDynamicObstacleGrid" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="358.761,1081.736,349.0434,1080.1331,353.9224,1082.996,351.0595,1087.8749,358.761,1081.736" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[f57ac6dd3432e89a6b2b9c6f9a871b65]
+link _PathPlanner to slObstacleGrid--><path d="M241.049,1138.127 C266.033,1150.828 301.324,1168.251 333,1182 C346.35,1187.795 361.215,1193.628 374.387,1198.591 " fill="none" id="_PathPlanner-&gt;slObstacleGrid" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="379.157,1200.378,372.1322,1193.4749,374.4748,1198.6239,369.3257,1200.9665,379.157,1200.378" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[3f90f9f221f5ab2b94c738366ace65ef]
+link _PathPlanner to slObstacleGridDilation--><path d="M222.463,1138.292 C244.15,1163.238 287.439,1209.357 333,1237 C340.724,1241.686 349.35,1245.752 357.978,1249.222 " fill="none" id="_PathPlanner-&gt;slObstacleGridDilation" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="362.766,1251.088,355.8323,1244.0935,358.1072,1249.2727,352.9279,1251.5476,362.766,1251.088" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[436b236ece7f5f2a85a20dc0cdd3946f]
+link _PathPlanner to xyObstacleCostGrid--><path d="M215.896,1138.189 C232.6,1172.709 274.817,1250.844 333,1294 C340.325,1299.433 348.825,1303.83 357.472,1307.371 " fill="none" id="_PathPlanner-&gt;xyObstacleCostGrid" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="362.285,1309.251,355.3583,1302.2495,357.628,1307.4311,352.4464,1309.7007,362.285,1309.251" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[e57534c9adde312dcf97eeba04458f1e]
+link _PathPlanner to xyObstacleGrid--><path d="M212.6,1138.08 C224.817,1180.18 262.092,1289.729 333,1348 C340.787,1354.399 350.235,1359.17 359.84,1362.723 " fill="none" id="_PathPlanner-&gt;xyObstacleGrid" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="364.561,1364.372,357.3827,1357.6287,359.8405,1362.7237,354.7455,1365.1816,364.561,1364.372" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[6d0a988de1c0ec437a538f1068d0a9e2]
+link _PathPlanner to xyslMap--><path d="M210.723,1138.214 C219.293,1186.621 250.23,1325.142 333,1398 C344.242,1407.896 359.483,1413.712 373.546,1417.129 " fill="none" id="_PathPlanner-&gt;xyslMap" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="378.664,1418.283,370.7646,1412.4009,373.7865,1417.1829,369.0045,1420.2048,378.664,1418.283" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[0ec5cbbfaec87d23c77f9e98c28a067d]
+link _PathPlannerConfigEditor to _Car--><path d="M679.317,420.03 C683.636,422.85 687.607,426.15 691,430 C725.633,469.27 743.896,631.81 749.552,691.706 " fill="none" id="_PathPlannerConfigEditor-&gt;_Car" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="750.03,696.842,753.1797,687.5104,749.5671,691.8635,745.214,688.2509,750.03,696.842" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[3137f6800c3b487776a2fcbb7fefeca3]
+link _Physics to _Car--><path d="M644.814,694.673 C669.951,699.227 704.713,705.524 727.635,709.677 " fill="none" id="_Physics-&gt;_Car" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="732.624,710.58,724.4813,705.0395,727.7041,709.6886,723.0551,712.9114,732.624,710.58" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[0fa3fa020c4221b250ed457b3a678ac5]
+link _ScenarioManager to examples--><path d="M472.103,556 C501.839,556 537.445,556 565.228,556 " fill="none" id="_ScenarioManager-&gt;examples" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="570.322,556,561.322,552,565.322,556,561.322,560,570.322,556" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[8e92cf67689a7bb2ced46827070c5584]
+link _ScenarioManager to Helpers--><path d="M472.103,542.09 C506.922,533.82 549.787,523.65 578.719,516.78 " fill="none" id="_ScenarioManager-&gt;Helpers" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="583.596,515.62,573.915,513.8093,578.7315,516.776,575.7647,521.5925,583.596,515.62" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[a290b0460e69f70a5d21e544c684494f]
+link _Simulator to _AutonomousController--><path d="M81.1468,719.446 C94.81,721.476 110.903,723.868 126.909,726.247 " fill="none" id="_Simulator-&gt;_AutonomousController" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="131.871,726.984,123.5575,721.7033,126.9254,726.2483,122.3804,729.6162,131.871,726.984" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[ff6d3d233e54b953601527d10b1a05a3]
+link _Simulator to _CarObject--><path d="M53.2939,696.987 C65.8157,674.386 90.8707,634.68 123,612 C134.797,603.67 149.313,597.8 162.888,593.72 " fill="none" id="_Simulator-&gt;_CarObject" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="167.84,592.29,158.0851,590.9328,163.0347,593.6717,160.2958,598.6213,167.84,592.29" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[2b50d1d723b2e4043ff85606d9dda82d]
+link _Simulator to _CubicPath--><path d="M64.6494,731.184 C79.6833,742.933 101.2924,757.658 123,765 C206.605,793.276 311.343,793.102 368.826,790.211 " fill="none" id="_Simulator-&gt;_CubicPath" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="373.9,789.942,364.7011,786.4233,368.907,790.2063,365.124,794.4121,373.9,789.942" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[d2aff9f1f34965b4799302184b294c6a]
+link _Simulator to _Dashboard--><path d="M45.3868,731.174 C48.9227,790.817 64.7855,993.799 123,1149 C186.844,1319.209 174.864,1410.333 333,1500 C394.472,1534.856 427.458,1528.777 492,1500 C543.342,1477.108 581.845,1420.049 599.981,1388.618 " fill="none" id="_Simulator-&gt;_Dashboard" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="602.508,1384.173,594.5826,1390.0201,600.0368,1388.5197,601.5373,1393.9739,602.508,1384.173" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[ef931527f901b6ad6c8573df19610a3b]
+link _Simulator to _DynamicObstacle--><path d="M44.6869,696.869 C46.0723,649.188 56.0196,513 123,430 C189.167,348.01 230.689,345.17 333,320 C401.62,303.12 433.797,279.92 492,320 C535.101,349.68 496.664,393.33 534,430 C537.829,433.76 542.2,437.02 546.872,439.85 " fill="none" id="_Simulator-&gt;_DynamicObstacle" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="551.241,442.32,545.3763,434.4076,546.8889,439.8585,541.438,441.3711,551.241,442.32" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[f1b011384a03814f4a6f7e0678299047]
+link _Simulator to _DynamicObstacleObject--><path d="M75.4569,696.893 C89.7573,689.234 107.067,680.305 123,673 C133.39,668.236 144.678,663.48 155.486,659.122 " fill="none" id="_Simulator-&gt;_DynamicObstacleObject" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="160.413,657.149,150.5709,656.7839,155.7718,659.0089,153.5468,664.2098,160.413,657.149" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[c379bcc55e9fbc7e178e5373cd28da44]
+link _Simulator to _Editor--><path d="M51.5209,696.792 C63.9674,667.118 91.5703,604.9 123,557 C141.918,528.17 168.05,498.26 185.908,478.97 " fill="none" id="_Simulator-&gt;_Editor" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="189.365,475.25,180.309,479.1214,185.962,478.9133,186.1702,484.5663,189.365,475.25" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[c65744588bacddd7c4bd9cf7f9f58bc4]
+link _Simulator to _FollowController--><path d="M45.0733,731.096 C48.9654,843.067 72.8773,1469.21 123,1536 C128.811,1543.744 136.725,1549.6736 145.371,1554.2131 " fill="none" id="_Simulator-&gt;_FollowController" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="150.24,1556.5947,143.9112,1549.0485,145.748,1554.3988,140.3977,1556.2356,150.24,1556.5947" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[6ad97c17370b50d718cdb7f465d62d66]
+link _Simulator to _GPGPU--><path d="M46.1612,731.117 C52.3003,790.403 75.8332,985.347 123,1022 C181.958,1067.816 231.586,1067.223 291,1022 C346.77,979.551 285.283,921.335 333,870 C344.506,857.622 361.853,850.71 377.316,846.853 " fill="none" id="_Simulator-&gt;_GPGPU" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="382.477,845.659,372.807,843.7908,377.6057,846.7861,374.6103,851.5848,382.477,845.659" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[b21b4862a923d248aa2f27efce3013af]
+link _Simulator to _ManualController--><path d="M55.916,731.258 C69.7321,750.976 94.6935,783.08 123,803 C130.49,808.271 138.942,812.866 147.513,816.817 " fill="none" id="_Simulator-&gt;_ManualController" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="152.282,818.946,145.6948,811.6242,147.7164,816.9075,142.4332,818.9291,152.282,818.946" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[e66278061007fca6b439b523cc622792]
+link _Simulator to _MapObject--><path d="M48.8191,731.092 C57.5273,762.102 80.1196,827.766 123,864 C133.721,873.059 147.549,879.097 160.833,883.114 " fill="none" id="_Simulator-&gt;_MapObject" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="165.696,884.505,158.1422,878.1852,160.8886,883.1306,155.9432,885.8771,165.696,884.505" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[bbeb49e442cda705fe1d1f1d6cfb0904]
+link _Simulator to _MovingAverage--><path d="M46.1232,731.015 C50.7446,769.953 67.4656,866.238 123,919 C130.458,926.086 139.798,931.312 149.497,935.167 " fill="none" id="_Simulator-&gt;_MovingAverage" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="154.28,936.951,147.2453,930.058,149.5952,935.2037,144.4496,937.5536,154.28,936.951" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[b8a134048ea007d0d16309033ce27f00]
+link _Simulator to OrbitControls--><path d="M44.3921,731.055 C45.0594,777.124 53.4123,905.225 123,974 C130.771,981.681 140.84,986.934 151.27,990.519 " fill="none" id="_Simulator-&gt;OrbitControls" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="156.081,992.051,148.7208,985.5067,151.3171,990.5326,146.2913,993.1289,156.081,992.051" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[75f714606274b76e691b343c98bcd43c]
+link _Simulator to _Path--><path d="M45.2157,696.936 C48.5542,625.89 64.9756,354.62 123,297 C250.707,170.19 502.11,242.52 584.59,271.06 " fill="none" id="_Simulator-&gt;_Path" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="589.775,272.87,582.6035,266.1195,585.0562,271.217,579.9587,273.6696,589.775,272.87" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[87d1db2abaf071406810ae56ebc2bf81]
+link _Simulator to _PathPlanner--><path d="M44.3155,731.092 C44.5316,784.389 51.2625,950.518 123,1060 C134.109,1076.954 151.651,1090.853 167.752,1101.078 " fill="none" id="_Simulator-&gt;_PathPlanner" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="172.249,1103.865,166.7047,1095.725,167.9985,1101.2318,162.4916,1102.5257,172.249,1103.865" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[a33fb1f218c422f796286eb8b5061c54]
+link _Simulator to _PathPlannerConfigEditor--><path d="M46.1443,696.98 C52.545,634.04 77.7097,415.52 123,365 C234.538,240.58 336.337,232.26 492,293 C537.631,310.8 576.357,355.09 596.539,381.73 " fill="none" id="_Simulator-&gt;_PathPlannerConfigEditor" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="599.618,385.84,597.4229,376.2389,596.6201,381.8385,591.0205,381.0356,599.618,385.84" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[3629a97068707afda3aaba5186024c8d]
+link _Simulator to _Physics--><path d="M81.2382,712.067 C94.4089,711.391 109.369,710.64 123,710 C292.056,702.059 494.079,693.75 575.183,690.462 " fill="none" id="_Simulator-&gt;_Physics" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="580.349,690.253,571.1941,686.6214,575.3531,690.4559,571.5187,694.6149,580.349,690.253" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[fd0dbb43c3aeef6a549b95e582a26123]
+link _Simulator to _RoadLattice--><path d="M44.9063,731.257 C47.8139,848.59 66.9756,1526.644 123,1597 C131.743,1607.9796 145.025,1614.5486 158.417,1618.4613 " fill="none" id="_Simulator-&gt;_RoadLattice" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="163.347,1619.7859,155.6945,1613.5859,158.5185,1618.4874,153.617,1621.3114,163.347,1619.7859" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[24a3c8424dcf5c03048b15e0c6c40be0]
+link _Simulator to _StaticObstacle--><path d="M45.8658,696.976 C52.8735,611.6 85.9052,232.75 123,197 C155.035,166.12 280.052,162.14 354.597,162.64 " fill="none" id="_Simulator-&gt;_StaticObstacle" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="359.875,162.68,350.9085,158.6056,354.8752,162.6386,350.8422,166.6053,359.875,162.68" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[036b11fae15d9d915c933b0408640d1d]
+link _Simulator to _StaticObstacleObject--><path d="M46.1485,696.829 C55.591,599.16 103.0883,117.08 123,93 C125.218,90.32 127.706,87.9 130.399,85.72 " fill="none" id="_Simulator-&gt;_StaticObstacleObject" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="134.787,82.49,125.1678,84.6044,130.7604,85.4542,129.9106,91.0469,134.787,82.49" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[284449b7af58f447bb76f3d9b4e1bd2b]
+link _Simulator to _TopDownCameraControls--><path d="M45.8713,696.947 C53.1715,607.83 88.4342,198.01 123,154 C127.045,148.85 132.015,144.5 137.494,140.83 " fill="none" id="_Simulator-&gt;_TopDownCameraControls" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="141.776,138.15,132.0239,139.5274,137.5358,140.7997,136.2635,146.3117,141.776,138.15" style="stroke: #000000; stroke-width: 0.5;"/><script type="text/plantuml"><![CDATA[MD5=[187299d63a6c376f1bd0ba9464610368]
+@startuml
+
+scale max 1920 width
+left to right direction
+
+skinparam nodesep 21
+skinparam ranksep 42
+skinparam monochrome true
+skinparam shadowing false
+skinparam defaultFontName Tahoma
+skinparam defaultFontSize 12
+skinparam roundCorner 6
+skinparam dpi 150
+skinparam arrowColor black
+skinparam arrowThickness 0.5
+skinparam packageTitleAlignment left
+
+skinparam usecase {
+  borderThickness 0.5
+}
+
+skinparam rectangle {
+  borderThickness 0.5
+}
+
+skinparam component {
+  borderThickness 1
+}
+
+
+rectangle "AutonomousController" as _AutonomousController
+rectangle "Car" as _Car
+rectangle "CarObject" as _CarObject
+rectangle "CubicPath" as _CubicPath
+(<b>Dash</b>)
+rectangle "Dashboard" as _Dashboard
+rectangle "DynamicObstacle" as _DynamicObstacle
+rectangle "DynamicObstacleEditor" as _DynamicObstacleEditor
+rectangle "DynamicObstacleObject" as _DynamicObstacleObject
+rectangle "Editor" as _Editor
+(examples)
+rectangle "FollowController" as _FollowController
+rectangle "GPGPU" as _GPGPU
+(graphSearch)
+(graphSearchShared)
+(Helpers)
+rectangle "LanePath" as _LanePath
+rectangle "ManualController" as _ManualController
+rectangle "MapObject" as _MapObject
+rectangle "MovingAverage" as _MovingAverage
+(optimizeCubicPaths)
+(optimizeQuinticPaths)
+(OrbitControls)
+rectangle "Path" as _Path
+(pathFromVehicleCosts)
+rectangle "PathPlanner" as _PathPlanner
+rectangle "PathPlannerConfigEditor" as _PathPlannerConfigEditor
+rectangle "Physics" as _Physics
+rectangle "QuinticPath" as _QuinticPath
+rectangle "RoadLattice" as _RoadLattice
+rectangle "ScenarioManager" as _ScenarioManager
+rectangle "ShareManager" as _ShareManager
+rectangle "Simulator" as _Simulator
+(slDynamicObstacleGrid)
+(slObstacleGrid)
+(slObstacleGridDilation)
+rectangle "StaticObstacle" as _StaticObstacle
+rectangle "StaticObstacleObject" as _StaticObstacleObject
+(TDSLoader)
+rectangle "TopDownCameraControls" as _TopDownCameraControls
+(<b>Utils</b>)
+(xyObstacleCostGrid)
+(xyObstacleGrid)
+(xyslMap)
+
+
+_AutonomousController ---> _Car
+_CarObject --> _Car
+_CarObject --> (TDSLoader)
+(<b>Dash</b>) -[thickness=1]> _Simulator
+(<b>Dash</b>) -[thickness=1]> _StaticObstacle
+_Dashboard --> _Car
+_DynamicObstacleEditor --> _DynamicObstacle
+_DynamicObstacleEditor --> _PathPlannerConfigEditor
+_Editor --> _DynamicObstacleEditor
+_Editor --> (Helpers)
+_Editor --> _LanePath
+_Editor --> _ScenarioManager
+_Editor --> _ShareManager
+_Editor --> _StaticObstacle
+_FollowController ---> _Car
+(graphSearch) --> (graphSearchShared)
+_Path --> _Car
+(pathFromVehicleCosts) --> (graphSearchShared)
+_PathPlanner ---> _Car
+_PathPlanner --> _CubicPath
+_PathPlanner --> _GPGPU
+_PathPlanner --> (graphSearch)
+_PathPlanner --> (optimizeCubicPaths)
+_PathPlanner --> (optimizeQuinticPaths)
+_PathPlanner --> (pathFromVehicleCosts)
+_PathPlanner --> _QuinticPath
+_PathPlanner --> (slDynamicObstacleGrid)
+_PathPlanner --> (slObstacleGrid)
+_PathPlanner --> (slObstacleGridDilation)
+_PathPlanner --> (xyObstacleCostGrid)
+_PathPlanner --> (xyObstacleGrid)
+_PathPlanner --> (xyslMap)
+_PathPlannerConfigEditor --> _Car
+_Physics --> _Car
+_ScenarioManager --> (examples)
+_ScenarioManager --> (Helpers)
+_Simulator --> _AutonomousController
+_Simulator --> _CarObject
+_Simulator --> _CubicPath
+_Simulator --> _Dashboard
+_Simulator --> _DynamicObstacle
+_Simulator --> _DynamicObstacleObject
+_Simulator --> _Editor
+_Simulator --> _FollowController
+_Simulator --> _GPGPU
+_Simulator --> _ManualController
+_Simulator --> _MapObject
+_Simulator --> _MovingAverage
+_Simulator --> (OrbitControls)
+_Simulator --> _Path
+_Simulator --> _PathPlanner
+_Simulator --> _PathPlannerConfigEditor
+_Simulator --> _Physics
+_Simulator --> _RoadLattice
+_Simulator --> _StaticObstacle
+_Simulator --> _StaticObstacleObject
+_Simulator --> _TopDownCameraControls
+
+@enduml
+
+
+' View and edit on https://arkit.pro
+]]></script></g></svg>
