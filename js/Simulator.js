@@ -26,6 +26,9 @@ const WELCOME_MODAL_KEY = 'dash_WelcomeModal';
 
 export default class Simulator {
   constructor(domElement) {
+
+    this.lastPrintTime = new Date().getTime();
+
     this.pathPlannerWorker = new Worker(URL.createObjectURL(new Blob([`(${dash_initPathPlannerWorker.toString()})()`], { type: 'text/javascript' })));
     this.pathPlannerWorker.onmessage = this.receivePlannedPath.bind(this);
     this.pathPlannerConfigEditor = new PathPlannerConfigEditor();
@@ -407,6 +410,9 @@ export default class Simulator {
   restartScenario() {
     if (this.editor.enabled) return;
 
+    this.car.score = 100;
+    this.lastPrintTime = new Date().getTime();
+
     if (this.plannedPathGroup)
       this.scene.remove(this.plannedPathGroup);
 
@@ -684,6 +690,26 @@ export default class Simulator {
       return;
     }
 
+    //
+
+    
+      this.staticObstacles.forEach(so_ => {
+        if(new Date().getTime() - this.lastPrintTime > 1000 && Math.abs(so_.pos.x - this.car.position.x) < 50 && Math.abs(so_.pos.y - this.car.position.y) < 50)
+          this.car.score = this.car.score - 5;
+          this.lastPrintTime = new Date().getTime();
+          console.log(this.car.score)
+      });
+    
+      this.dynamicObstacles.forEach(do_ => {
+        if(new Date().getTime() - this.lastPrintTime > 1000 && Math.abs(do_.pos.x - this.car.position.x) < 50 && Math.abs(do_.pos.y - this.car.position.y) < 50)
+          this.car.score = this.car.score - 5;
+          this.lastPrintTime = new Date().getTime();
+          console.log(this.car.score)
+      });
+    
+
+    //
+
     this.editor.update();
 
     if (!this.editor.enabled && !this.paused) {
@@ -757,5 +783,6 @@ export default class Simulator {
     this.prevTimestamp = timestamp;
 
     requestAnimationFrame(this.step.bind(this));
+
   }
 }

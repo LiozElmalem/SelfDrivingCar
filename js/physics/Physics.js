@@ -12,7 +12,6 @@ export default class Physics {
   createCar() {
     const newCar = new Car();
     this.cars.push(newCar);
-
     return newCar;
   }
 };

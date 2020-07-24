@@ -1,6 +1,9 @@
 export default class Car {
+
   constructor(x = 0, y = 0, rotation = 0) {
     this.setPose(x, y, rotation);
+    this.score = 100;
+    this.lastTimeLogger = new Date().getTime();
   }
 
   static getFrontAxlePosition(pos, rot) {
@@ -98,6 +101,11 @@ export default class Car {
       this.wheelAngularVelocity = steer * Car.MAX_STEER_SPEED;
     } else {
       this.wheelAngularVelocity = Math.clamp(-this.wheelAngle / Car.MAX_WHEEL_ANGLE * this.velocity * this.velocity * dt, -Car.MAX_STEER_SPEED, Car.MAX_STEER_SPEED);
+    }
+
+    if(new Date().getTime() - this.lastTimeLogger > 5000){
+      this.lastTimeLogger = new Date().getTime();
+      console.log(this);
     }
     
   }

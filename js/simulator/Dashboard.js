@@ -30,6 +30,7 @@ export default class Dashboard {
     this.stationDom = document.getElementById('station');
     this.latitudeDom = document.getElementById('latitude');
     this.planTimeDom = document.getElementById('plan-time');
+    this.scoreDom = document.getElementById('score');
     this.elapsedTimeDom = document.getElementById('elapsed-time');
 
     this.speedUnitsDom = document.getElementById('speed-units');
@@ -66,6 +67,7 @@ export default class Dashboard {
     if (!this.wheelDom) return;
 
     this.planTimeDom.textContent = planTime !== null ? (planTime * 1000).toLocaleString(undefined, { maximumFractionDigits: 0 }) : '—';
+    this.scoreDom.textContent = this.car.score;
   }
 
   update(controls, speed, station, latitude, elapsedTime, planTime) {
