@@ -54,6 +54,8 @@ export default class AutonomousController {
       progress = 0;
       nextIndex++;
     }
+
+
   }
 
   control(pose, wheelAngle, velocity, dt) {

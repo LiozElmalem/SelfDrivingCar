@@ -1,6 +1,7 @@
 {
   "name": "dash",
   "version": "1.0.0",
+  "mode":"development",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
@@ -16,6 +17,9 @@
     "wrapper-webpack-plugin": "1.0.0"
   },
   "dependencies": {
+    "express": "^4.17.1",
+    "html": "^1.0.0",
+    "node-fetch": "^2.6.0",
     "npm": "^5.7.1"
   }
 }

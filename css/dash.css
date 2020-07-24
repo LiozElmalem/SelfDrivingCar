@@ -309,15 +309,13 @@ canvas { width: 100%; height: 100% }
     height: 100px;
 }
 
+
 #wheel {
-    width: 100px;
-    height: 100px;
-    mask-image: url('../images/wheel.png');
     mask-size: contain;
-    -webkit-mask-image: url('../images/wheel.png');
     -webkit-mask-size: contain;
     background-color: hsl(0, 0%, 86%);
 }
+
 
 #wheel-marker {
     height: 4px;

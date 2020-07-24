@@ -10,6 +10,7 @@ Math.wrapAngle = (angle) => {
 THREE.Vector2.fromAngle = (angle) => new THREE.Vector2(Math.cos(angle), Math.sin(angle));
 
 THREE.Curve.prototype.getCurvatureAt = function(u) {
+
   let t2 = this.getUtoTmapping(u);
 
   const delta = 0.0001;

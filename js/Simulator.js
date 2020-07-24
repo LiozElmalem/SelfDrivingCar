@@ -1,4 +1,5 @@
 import Physics from "./physics/Physics.js";
+import Debug from './Debug'
 import Path from "./autonomy/Path.js";
 import CubicPath from "./autonomy/path-planning/CubicPath.js";
 import AutonomousController from "./autonomy/control/AutonomousController.js";

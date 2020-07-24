@@ -8891,7 +8891,6 @@
 		},
 
 		distanceToSphere: function ( sphere ) {
-
 			return this.distanceToPoint( sphere.center ) - sphere.radius;
 
 		},

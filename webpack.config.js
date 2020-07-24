@@ -7,6 +7,7 @@ module.exports = {
     PathPlannerWorker: './workers/PathPlannerWorker.js',
     Dash: './js/Dash.js'
   },
+  mode:"development",
   devtool: 'eval-source-map',
   plugins: [
     new WrapperPlugin({
