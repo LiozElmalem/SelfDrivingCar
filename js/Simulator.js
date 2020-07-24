@@ -691,22 +691,23 @@ export default class Simulator {
     }
 
     //
-
-    
+    try{
       this.staticObstacles.forEach(so_ => {
         if(new Date().getTime() - this.lastPrintTime > 1000 && Math.abs(so_.pos.x - this.car.position.x) < 50 && Math.abs(so_.pos.y - this.car.position.y) < 50)
           this.car.score = this.car.score - 5;
           this.lastPrintTime = new Date().getTime();
           console.log(this.car.score)
       });
-    
+    }catch(error){}
+
+    try{
       this.dynamicObstacles.forEach(do_ => {
         if(new Date().getTime() - this.lastPrintTime > 1000 && Math.abs(do_.pos.x - this.car.position.x) < 50 && Math.abs(do_.pos.y - this.car.position.y) < 50)
           this.car.score = this.car.score - 5;
           this.lastPrintTime = new Date().getTime();
           console.log(this.car.score)
       });
-    
+    }catch(error){}
 
     //
 
